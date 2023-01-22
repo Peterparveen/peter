@@ -20,5 +20,11 @@ public class PgitHub {
 		 System.out.println("duke");
 
 	}
+	 private void bike() {
+		 System.out.println("bike");
+	}
+	 private void car() {
+		 System.out.println("car");
+	}
 
 }
