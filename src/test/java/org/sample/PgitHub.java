@@ -12,5 +12,13 @@ public class PgitHub {
 	 private void tc3() {
 		 System.out.println("subesh");
 		}
+	 private void rider() {
+		 System.out.println("ride");
+
+	}
+	 private void ktm() {
+		 System.out.println("duke");
+
+	}
 
 }
