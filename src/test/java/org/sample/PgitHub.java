@@ -26,5 +26,8 @@ public class PgitHub {
 	 private void car() {
 		 System.out.println("car");
 	}
+	 private void cycle() {
+		 System.out.println("cycle");
+	}
 
 }
