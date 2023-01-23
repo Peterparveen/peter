@@ -20,5 +20,9 @@ public class PgitHub {
 		 System.out.println("duke");
 
 	}
+	 private void yamaha() {
+		 System.out.println("yamaha");
+
+	}
 
 }
